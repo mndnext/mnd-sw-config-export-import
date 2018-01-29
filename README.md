@@ -1,6 +1,6 @@
 # Config Export Import for Shopware
 
-This Shopware ([https://www.shopware.com](https://www.shopware.com)) Plugin extends the Shopware CLI with commands to export and import shopware configuration data to and from files.
+This Shopware ([https://www.shopware.com](https://www.shopware.com)) Plugin extends the Shopware CLI with commands to export and import shopware configuration data to and from xml-files.
 
 The primary purpose ist to make shopware configuration data and settings manageable in version control like git. Further it makes it possible to edit e.g. mail and product feed templates in files, so you can use your IDE and don't have to fight with the shopware backend masks.
 
