@@ -12,44 +12,44 @@ Also useful for deployment and backup purposes.
 
 Please note: This is work in progress. If you use this in a production environment please make sure everything works as expected.
 
-##### Core Config of Shopware and plugin configurations
+### Core Config of Shopware and plugin configurations
 (Grundeinstellungen und Plugin-Einstellungen)
 
 `mnd:swconfig:export` / `mnd:swconfig:import`
 
-##### Documents
+### Documents
 (Belege)
 
 `mnd:swdocument:export` / `mnd:swdocument:import`
 
-##### Content Pages
+### Content Pages
 (Inhaltsseiten)
 
 `mnd:swcms:export` / `mnd:swcms:import`
 
-##### Forms
+### Forms
 (Formulare)
 
 `mnd:swform:export` / `mnd:swform:import`
 
-##### Mail
+### Mail
 (Mailvorlagen)
 
 `mnd:swmail:export` / `mnd:swmail:import`
 
-##### Plugin states
+### Plugin states
 (Plugin Zustände (installiert, aktiviert etc.))
 
 `mnd:swplugin:export` / `mnd:swplugin:import`
 
 
-##### Productfeeds
+### Productfeeds
 (Produktexporte für Marktplätze etc.)
 
 
 `mnd:swproductfeed:export` / `mnd:swproductfeed:import`
 
-##### Theme config
+### Theme config
 (Theme configuration)
 
 `mnd:swthemeconfig:export` / `mnd:swthemeconfig:import`
