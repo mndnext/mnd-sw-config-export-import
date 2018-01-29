@@ -1,0 +1,16 @@
+{
+  "label": "MND SW Config Export Import",
+  "description": "Export shopware config to and import from version controllable files.",
+
+  "copyright": "(c) 2015-2018 MND Next GmbH",
+  "link": "http://www.mndnext.de",
+  "author": "MND Next GmbH",
+
+  "version": "3.0.0",
+
+  "compatibility": {
+    "minimumVersion": "5.0.0",
+    "maximumVersion": null,
+    "blacklist": []
+  }
+}

@@ -1,0 +1,5 @@
+<phpunit bootstrap="./Tests/Bootstrap.php">
+    <testsuite name="Config Export Import Test Suite">
+        <directory>Tests</directory>
+    </testsuite>
+</phpunit>
